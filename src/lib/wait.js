@@ -1,7 +1,7 @@
 /**
  * Waits for <b>howlong</b> milliseconds
  * @async
- * @param {Number} howlong How long to wait, in milliseconds
+ * @param {Number} How long to wait, in milliseconds
  * @returns {Promise<void>}
  */
 async function wait(howlong) {
